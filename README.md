@@ -27,7 +27,3 @@
 - 🧑‍💻 Arquitetura Hexagonal 🧑‍💻
 - ⏳ JMeter ⏳
 - 🐘 PostgreSQL 🐘
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldodf)](https://github.com/geraldodf)
