@@ -1,6 +1,6 @@
-# Olá, tudo bem? Meu nome é Geraldo Daros Filho! 😉
+# Olá. Boas-vindas ao meu perfil! 😉
 
-### Sou desenvolvedor e estudante com foco em Java e Spring. Também estudando para ser Full Stack usando Angular com Bootstrap.
+### Me chamo Geraldo e sou desenvolvedor e estudante com foco em Java e Spring. Também estudando para ser Full Stack usando Angular com Bootstrap.
 
 <br/>
 
