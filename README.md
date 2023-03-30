@@ -1,6 +1,6 @@
 # Olá. Boas-vindas ao meu perfil! 😉
 
-### Me chamo Geraldo e sou desenvolvedor e estudante com foco em Java e Spring. Também estudando para ser Full Stack usando Angular com Bootstrap.
+### Me chamo Geraldo e sou desenvolvedor FullStack, usando Java, Spring Boot, Angular e Bootstrap. 
 
 <br/>
 
