@@ -1,4 +1,4 @@
-<h1 align="center">Olá 😁, eu sou Geraldo Daros</h1>
+<h1 align="center">Olá, eu sou Geraldo Daros, boas vindas ao meu perfil! 😁</h1>
 <h3 align="center">Sou desenvolvedor fullstack apaixonado realmente pelo backend, especificamente o ecossistema Java!</h3>
 
 - 🌱 Estou estudando atualmente: **Git Flow, Docker, Nginx, Log4j, Spring Auth, RabbitMQ, Grafana e Promethes**
