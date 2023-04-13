@@ -1,4 +1,5 @@
-<h1 align="center">Olá, eu sou Geraldo Daros, boas vindas ao meu perfil! 😁</h1>
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá, pessoal! Eu sou Geraldo Daros</h2>
+
 <h3 align="center">Sou desenvolvedor fullstack apaixonado realmente pelo backend, especificamente o ecossistema Java!</h3>
 
 - 🌱 Estou estudando atualmente: **Git Flow, Docker, Nginx, Log4j, Spring Auth, RabbitMQ, Grafana e Promethes**
@@ -7,10 +8,6 @@
 
 - 📝 Eu regularmente escrevo artigos em [https://blog.cod3r.com.br/author/geraldo/](https://blog.cod3r.com.br/author/geraldo/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/geraldodf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geraldodf" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Principais linguagens e Frameworks:</h3>
 <p align="left"> 
