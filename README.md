@@ -1,5 +1,11 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá, pessoal! Eu sou Geraldo Daros</h2>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=geraldodf&label=Visitas%20&color=8&icon=7&pretty=false" />
+</a>
+
+[![](https://visitcount.itsvg.in/api?id=geraldodf&label=Visitas%20&color=8&icon=7&pretty=false)](https://visitcount.itsvg.in)
+
 <h3 align="center">Sou desenvolvedor fullstack apaixonado realmente pelo backend, especificamente o ecossistema Java!</h3>
 
 - 🌱 Estou estudando atualmente: **Git Flow, Docker, Nginx, Log4j, Spring Auth, RabbitMQ, Grafana e Promethes**
