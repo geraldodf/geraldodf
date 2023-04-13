@@ -5,7 +5,8 @@
 Eu me chamo Geraldo e sou desenvolvedor fullstack apaixonado realmente pelo backend, especificamente o ecossistema Java.
 <br>
 
-## 💻 Conhecimentos:
+<br>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
