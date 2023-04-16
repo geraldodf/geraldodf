@@ -28,7 +28,7 @@ Eu me chamo Geraldo e sou desenvolvedor fullstack apaixonado realmente pelo back
 
 - 👨‍💻 Explore mais sobre mim e minhas habilidades: [https://geraldodf.github.io/portfolio.github.io/](https://geraldodf.github.io/portfolio.github.io/)
 
-- 📝 Eu regularmente escrevo artigos em [https://blog.cod3r.com.br/author/geraldo/](https://blog.cod3r.com.br/author/geraldo/)
+- 📝 Eu regularmente escrevo artigos em: [https://blog.cod3r.com.br/author/geraldo/](https://blog.cod3r.com.br/author/geraldo/)
 
 <br>
 
