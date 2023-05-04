@@ -33,3 +33,4 @@ Eu me chamo Geraldo e sou desenvolvedor fullstack apaixonado realmente pelo back
 <br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geraldodf&theme=gotham&hide_border=false)<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldodf&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
