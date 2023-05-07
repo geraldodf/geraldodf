@@ -24,7 +24,7 @@ Eu me chamo Geraldo e sou desenvolvedor fullstack apaixonado realmente pelo back
 
 <br>
 
-- 🌱 Estou estudando atualmente: **Git Flow, Docker, Nginx, Log4j, Spring Auth, RabbitMQ, Grafana e Promethes**
+- 🌱 Estou estudando atualmente: **Nginx, Log4j, Spring Auth, RabbitMQ, Grafana e Promethes**
 
 - 👨‍💻 Explore mais sobre mim e minhas habilidades: [https://geraldodf.github.io/portfolio.github.io/](https://geraldodf.github.io/portfolio.github.io/)
 
