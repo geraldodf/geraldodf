@@ -1,3 +1,5 @@
+![header](./github-header.png)
+
 [![](https://visitcount.itsvg.in/api?id=geraldodf&label=Visitas%20&color=6&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá, pessoal!</h2>
