@@ -2,7 +2,7 @@
 
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá, pessoal!</h2>
 
-Eu me chamo Geraldo e sou desenvolvedor fullstack apaixonado realmente pelo backend, especificamente o ecossistema Java.
+Eu me chamo Geraldo e sou desenvolvedor Full-Stack apaixonado realmente pelo backend, especificamente o ecossistema Java.
 <br>
 
 <br>
