@@ -2,10 +2,13 @@
 
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá, pessoal!</h2>
 
+
+<!--
 Eu me chamo Geraldo e sou desenvolvedor Full-Stack apaixonado realmente pelo backend, especificamente o ecossistema Java.
 <br>
-
 <br>
+
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -35,4 +38,4 @@ Eu me chamo Geraldo e sou desenvolvedor Full-Stack apaixonado realmente pelo bac
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geraldodf&theme=gotham&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=geraldodf&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+-->
