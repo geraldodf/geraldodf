@@ -31,7 +31,7 @@ Eu me chamo Geraldo e sou desenvolvedor Full-Stack apaixonado realmente pelo bac
 
 <br>
 
-- 🌱 Estou estudando atualmente: **Nginx, Log4j, Spring Auth, RabbitMQ, Grafana e Prometheus**
+- 🌱 Aprimorando conhecimentos em: **Nginx, Log4j, RabbitMQ, Grafana e Prometheus**
 
 - 👨‍💻 Explore mais sobre mim e minhas habilidades: [Em construção... ](https://github.com/geraldodf)
 
