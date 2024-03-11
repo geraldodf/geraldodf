@@ -1,7 +1,5 @@
 
-
-<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá, pessoal!</h2>
-
+![Header](./github-header-image.png)
 
 Meu chamo Geraldo, sou desenvolvedor com mais de 2 anos de experiência. Comecei minha carreira trabalhando com Java e Spring Boot, atualmente, estou trabalhando com Next.js, majoritariamente na parte de TypeScript. Minha responsabilidade está no desenvolvimento de fluxos, utilizando a arquitetura hexagonal e na criação de casos de uso, e também com grande foco no desenvolvimento de testes unitários.
 <br>
