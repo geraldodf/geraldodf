@@ -2,14 +2,12 @@
 
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá, pessoal!</h2>
 
-<div>
-  <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldodf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldodf&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+Eu me chamo Geraldo e sou desenvolvedor fullstack, minha paixão realmente é o backend, especificamente o ecossistema Java.
+<br>
+<br>
 
 
-<!--
 Eu me chamo Geraldo e sou desenvolvedor Full-Stack apaixonado realmente pelo backend, especificamente o ecossistema Java.
 <br>
 <br>
@@ -33,15 +31,20 @@ Eu me chamo Geraldo e sou desenvolvedor Full-Stack apaixonado realmente pelo bac
 
 <br>
 
-- 🌱 Estou estudando atualmente: **Nginx, Log4j, Spring Auth, RabbitMQ, Grafana e Promethes**
+- 🌱 Estou estudando atualmente: **Nginx, Log4j, Spring Auth, RabbitMQ, Grafana e Prometheus**
 
-- 👨‍💻 Explore mais sobre mim e minhas habilidades: [https://geraldodf.github.io/portfolio.github.io/](https://geraldodf.github.io/portfolio.github.io/)
+- 👨‍💻 Explore mais sobre mim e minhas habilidades: [Em construção... ](https://github.com/geraldodf)
 
-- 📝 Eu regularmente escrevo artigos em: [https://blog.cod3r.com.br/author/geraldo/](https://blog.cod3r.com.br/author/geraldo/)
+- 📝 Eu regularmente escrevo artigos em: [Blog Formação Dev](https://blog.formacao.dev/)
 
 <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=geraldodf&theme=gotham&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=geraldodf&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
--->
+<div>
+  <a href="#">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldodf&show_icons=true&include_all_commits=true&count_private=true&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldodf&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=geraldodf&theme=gotham&hide_border=false"/>
+</div>
+
+
