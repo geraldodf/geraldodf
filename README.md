@@ -33,7 +33,7 @@ Sou desenvolvedor fullstack com mais de 2 anos de experiência. Comecei minha ca
 
 - 🌱 Aprimorando conhecimentos em: **Nginx, Log4j, RabbitMQ, Grafana e Prometheus**
 
-- 👨‍💻 Explore mais sobre mim e minhas habilidades: [Em construção... ](https://github.com/geraldodf)
+- 👨‍💻 Explore mais sobre mim e minhas habilidades: [Meu Portfolio](https://daroz.dev/)
 
 - 📝 Eu regularmente escrevo artigos em: [Blog Formação Dev](https://blog.formacao.dev/)
 
