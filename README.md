@@ -9,8 +9,7 @@
 
 </div>
 
-Sou desenvolvedor fullstack com mais de 2 anos de experiência. Comecei minha carreira trabalhando com Java e Spring Boot, atualmente, estou trabalhando com Next.js, majoritariamente na parte de TypeScript. Minha responsabilidade está no desenvolvimento de fluxos, utilizando a arquitetura hexagonal e na criação de casos de uso, e também com grande foco no desenvolvimento de testes unitários.
-<br>
+Sou desenvolvedor fullstack com mais de 2 anos de experiência. Trabalho com Java, Spring Boot e Angular.
 <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
