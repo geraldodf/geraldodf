@@ -9,7 +9,7 @@
 
 </div>
 
-Sou desenvolvedor fullstack com mais de 2 anos de experiência. Trabalho com Java, Spring Boot e Angular.
+Atuo como desenvolvedor fullstack desde 2021, com foco em Java, Spring Boot e frameworks frontend como Angular e React.
 <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -29,15 +29,6 @@ Sou desenvolvedor fullstack com mais de 2 anos de experiência. Trabalho com Jav
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 <br>
-
-- 🌱 Aprimorando conhecimentos em: **Nginx, Log4j, RabbitMQ, Grafana e Prometheus**
-
-- 👨‍💻 Explore mais sobre mim e minhas habilidades: [Meu Portfolio](https://daroz.dev/)
-
-- 📝 Eu regularmente escrevo artigos em: [Blog Formação Dev](https://blog.formacao.dev/)
-
-<br>
-
 
 <div align="center">
   <a href="#">
